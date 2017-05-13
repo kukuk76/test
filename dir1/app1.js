@@ -1,0 +1,3 @@
+function kukuk(){
+  alert('yessssssssss');
+}
